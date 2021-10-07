@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اخبار امريكا اليوم</string>
+    <string name="m1">قناة امريكا اليوم</string>
+    <string name="m2">الرئيسية</string>
+    <string name="m3">الاقسام</string>
+    <string name="m4">المتجر</string>
+    <string name="m5">البث المباشر</string>
+    <string name="m6">اتصل بنا</string>
+    <string name="m7">من نحن</string>
+    <string name="thanks">شكرا لكونك معنا</string>
+    <string name="america_news">اخبار أمريكا</string>
+    <string name="world_news">اخبار العالم</string>
+    <string name="egypt_news">اخبار مصر</string>
+    <string name="immigration_news">الهجرة</string>
+    <string name="inamerica_news">في أمريكا</string>
+    <string name="arab_america_news">دليل العرب في أمريكا</string>
+    <string name="universities_news">جامعات أمريكية</string>
+    <string name="jobs_news">وظائف خالية</string>
+    <string name="entertainment_news">ترفيه</string>
+    <string name="health_news">صحة</string>
+    <string name="sport_news">اخبار الرياضة</string>
+    <string name="finance_news">اقتصاد</string>
+    <string name="technology_news">تكنولوجيا</string>
+    <string name="information_news">معلومات</string>
+</resources>

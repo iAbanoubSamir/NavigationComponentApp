@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:orientation="vertical"
+    tools:context=".CategoryFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cWorld"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/world_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cAmerica"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/america_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cEgypt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/egypt_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cImmigration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/immigration_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cInAmerica"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/inamerica_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cArabAmerica"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/arab_america_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cUniversities"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/universities_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cJobs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/jobs_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cInformation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/information_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cTechnology"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/technology_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cFinance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/finance_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cHealth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/health_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cEntertainment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/entertainment_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cSport"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:drawableLeft="@drawable/ic_folder"
+                android:text="@string/sport_news"
+                android:textAllCaps="false"
+                android:textColor="@color/icons"
+                android:textSize="20sp"
+                app:cornerRadius="4dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

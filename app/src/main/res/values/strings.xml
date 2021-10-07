@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AmericaAlyoum News</string>
+    <string name="contact_header" translatable="false">You can contact us about your inquiries\nor if you have a problem on the application\nthrough the following contact information</string>
+    <string name="about_info" translatable="false">قناة امريكا اليوم قناة أمريكية عربية مقرها في الولايات المتحدة، تهدف القناة الي مساعدة الجالية العربية في أمريكا بمختلف الطرق، كما نقوم أيضاً بنشر اخر اخبار أمريكا سياسية كانت او اقتصادية وترفيهية، كمان نقوم بتوفير اخبار العالم العربي والدول العربية.\nتطبيق قناة امريكا اليوم هو تطبيق هام لمن يريد متابعة اخر اخبار امريكا واخبار الهجرة ومتابعة كل ما هو جديد في السياسات والقوانين الأمريكية باستمرار.\nيمكنك التواصل معنا دائما في أي وقت في حال واجتهك أي مشاكل في التطبيق او في البث المباشر او الموقع الالكتروني من خلال صفحة اتصل بنا الموجودة في التطبيق وسوف نقوم بالرد عليك في أقرب وقت ممكن.</string>
+    <string name="m1">AmericaAlyoum TV</string>
+    <string name="m2">Home</string>
+    <string name="m3">Categories</string>
+    <string name="m4">Store</string>
+    <string name="m5">Live</string>
+    <string name="m6">Contact us</string>
+    <string name="m7">About us</string>
+    <string name="thanks">Thanks for being\nwith us\n</string>
+    <string name="america_news">US News</string>
+    <string name="world_news">World News</string>
+    <string name="egypt_news">Egypt News</string>
+    <string name="immigration_news">Immigration</string>
+    <string name="inamerica_news">in America</string>
+    <string name="arab_america_news">Arab America</string>
+    <string name="universities_news">Universities</string>
+    <string name="jobs_news">Jobs</string>
+    <string name="entertainment_news">Entertainment</string>
+    <string name="health_news">Health</string>
+    <string name="sport_news">Sport News</string>
+    <string name="finance_news">Finance</string>
+    <string name="technology_news">Technology</string>
+    <string name="information_news">Information</string>
+    <string name="nav1">AmericaAlyoum</string>
+    <string name="nav2">Categories</string>
+    <string name="nav3">Live Stream</string>
+    <string name="nav4">Store</string>
+    <string name="nav5">About</string>
+    <string name="nav6">Contact us</string>
+</resources>
